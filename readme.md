@@ -1,6 +1,6 @@
 # Taller Arrays en Ruby
 
-[https://github.com/DesafioLatam/taller-estructuras-control](https://github.com/DesafioLatam/taller-estructuras-control)
+[https://github.com/DesafioLatam/taller-arrays-ruby](https://github.com/DesafioLatam/taller-arrays-ruby)
 
 *INSTRUCCIONES*:
 
